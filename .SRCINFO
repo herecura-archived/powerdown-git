@@ -1,6 +1,6 @@
 pkgbase = powerdown-git
 	pkgdesc = simple linux powersaving script (git version)
-	pkgver = 143.98bf2dc
+	pkgver = 20150201.cb86740
 	pkgrel = 1
 	url = http://github.com/taylorchu/powerdown
 	arch = any
@@ -14,7 +14,7 @@ pkgbase = powerdown-git
 	depends = x86_energy_perf_policy
 	provides = pm-utils
 	conflicts = pm-utils
-	source = git://github.com/taylorchu/powerdown.git
+	source = powerdown::git://github.com/taylorchu/powerdown.git
 	md5sums = SKIP
 
 pkgname = powerdown-git
