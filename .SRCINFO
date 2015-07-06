@@ -1,7 +1,7 @@
 pkgbase = powerdown-git
 	pkgdesc = simple linux powersaving script (git version)
 	pkgver = 20150403.8b95050
-	pkgrel = 1
+	pkgrel = 2
 	url = http://github.com/taylorchu/powerdown
 	arch = any
 	license = GPL2

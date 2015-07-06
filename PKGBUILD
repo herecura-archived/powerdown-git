@@ -3,7 +3,7 @@
 pkgname=powerdown-git
 _gitname="powerdown"
 pkgver=20150403.8b95050
-pkgrel=1
+pkgrel=2
 pkgdesc="simple linux powersaving script (git version)"
 arch=('any')
 url="http://github.com/taylorchu/powerdown"
